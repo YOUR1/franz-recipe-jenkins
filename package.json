@@ -1,0 +1,15 @@
+{
+  "id": "franz-jenkins",
+  "name": "Jenkins",
+  "version": "1.0.0",
+  "description": "Add a Jenkins service to Franz",
+  "main": "index.js",
+  "author": "Youri van den Bogert <youri@vandenbogert.eu>",
+  "license": "MIT",
+  "repository": "https://github.com/YOUR1/franz-recipe-jenkins",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasCustomUrl": true
+  }
+}
